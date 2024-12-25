@@ -37,19 +37,19 @@ Mở terminal hoặc Command Prompt (Window) chạy:
 - Vào Extensions Marketplace (Ctrl+Shift+X) và tìm Java Extension Pack.
 - Cài đặt gói Java Extension Pack (bao gồm các công cụ như Language Support for Java, Debugger for Java, và Maven).
 
-4. **Tạo dự án Java trong VS Code**<br>
-  1.***Tạo một thư mục mới:***<br>
-  Ví dụ: ChatApp.<br>
-  2.***Mở thư mục trong VS Code:***<br>
-  Chọn File > Open Folder.<br>
-  3. ***Tạo cấu trúc thư mục:***<br>
-  - Tạo file Server.java và Client.java trong thư mục src.<br>
-  - Cấu trúc thư mục:
-    ```bash
-    ChatApp/
-    └── src/
-        ├── Server.java
-        └── Client.java
+4. **Tạo dự án Java trong VS Code**
+  - ***Tạo một thư mục mới:***
+     Ví dụ: ChatApp.<br>
+  - ***Mở thư mục trong VS Code:***
+     Chọn File > Open Folder.
+  - ***Tạo cấu trúc thư mục:***
+    Tạo file Server.java và Client.java trong thư mục src.
+    Cấu trúc thư mục:
+       ```bash
+       ChatApp/
+       └── src/
+           ├── Server.java
+           └── Client.java
     
 ## Cài đặt Server
 
