@@ -53,7 +53,7 @@ Mở terminal hoặc Command Prompt (Window) chạy:
     
 ## Cài đặt Server
 
-1. **Biên dịch và chạy server**:
+1. **Biên dịch và chạy server:**
    ```bash
    javac ChatServer.java
    java ChatServer
