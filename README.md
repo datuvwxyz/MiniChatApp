@@ -90,7 +90,7 @@ Khi chạy client, bạn sẽ được yêu cầu nhập tên của bạn và t�
 - Xử lý mỗi client trong một Thread riêng biệt (ClientHandler).
 - Sử dụng các phương thức đồng bộ để xử lý việc client tham gia và rời phòng, và phát broadcast tin nhắn.
 - Lưu trữ lịch sử tin nhắn cho mỗi phòng.
-- 
+
 **Client:**
 - Sử dụng Socket để kết nối với server.
 - Gửi và nhận tin nhắn từ server.
